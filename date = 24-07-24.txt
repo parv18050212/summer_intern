@@ -1,0 +1,16 @@
+date = 24-07-24
+work on my menu  project 
+complete the google  cloud labs
+
+26-07
+
+Micro Service Architecture ------------------> pdna h 
+
+sari micro service se bnkr ek bdi appp bnti h 
+
+single responsibility function:
+
+ek function ek hi kaam krega 
+
+
+

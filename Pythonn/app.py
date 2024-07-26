@@ -20,7 +20,7 @@ def send_mail():
     import smtplib
     server = smtplib.SMTP('smtp.gmail.com',587)
     server.starttls()
-    server.login('parv23155@gmail.com','dckg ueoc wmsz vidg')
+    server.login('parv23155@gmail.com','')
     server.sendmail('parv23155@gmail.com','parvagarwal73@gmail.com','message')
 
     return('mail sent')
@@ -47,7 +47,7 @@ def sch_mail():
 
         server.starttls()
 
-        server.login('parv23155@gmail.com','dckg ueoc wmsz vidg')
+        server.login('parv23155@gmail.com','')
 
         server.sendmail('parv23155@gmail.com','parvagarwal73@gmail.com', 'hello friend')
 

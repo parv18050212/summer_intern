@@ -13,4 +13,27 @@ single responsibility function:
 ek function ek hi kaam krega 
 
 
+service jo function ko run kr⁭ne deti h -----> FaaS - function as a service
+
+ye serverless service h 
+
+
+aws lambda 
+
+
+
+machine learning -
+
+binary classification:
+
+
+
+
+27-07
+
+
+
+
+
+
 
